@@ -21,7 +21,7 @@
 		<node id="17" name="Impute" qualified_name="Orange.widgets.data.owimpute.OWImpute" project_name="Orange3" version="" title="Impute" position="(499.0, 979.0)" />
 		<node id="18" name="Correlations" qualified_name="Orange.widgets.data.owcorrelations.OWCorrelations" project_name="Orange3" version="" title="Correlations" position="(711.0, 975.0)" />
 		<node id="19" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="correlation_scatter_plot" position="(871.0, 974.0)" />
-		<node id="20" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(910.0, 1203.0)" />
+		<node id="20" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(910.0, 1202.0)" />
 		<node id="21" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select Rows" position="(707.0, 1201.0)" />
 		<node id="22" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWDataTable" project_name="Orange3" version="" title="Data Table (1)" position="(1059.0, 1046.0)" />
 		<node id="23" name="t-SNE" qualified_name="Orange.widgets.unsupervised.owtsne.OWtSNE" project_name="Orange3" version="" title="t-SNE" position="(1282.0, 1201.0)" />
@@ -2998,7 +2998,7 @@ bZRLA4wDbHdilEsDjANsZG2USwOMA2NkbZRLA4wDcmRtlEsDjANyd2KUSwOMAmxilEsDjANsY2KU
 SwOMAmNilEsDjANyY2KUSwOMAnJilEsDjA9wbGF5ZXJfZmFjZV91cmyUSwOMDWNsdWJfbG9nb191
 cmyUSwOMD25hdGlvbl9mbGFnX3VybJRLA3V1YmV1Lg==
 </properties>
-		<properties node_id="11" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x1a\x00\x00\x03\xbf\x00\x00\x047\x00\x00\x00\x00\x00\x00\x008\x00\x00\x03\xbf\x00\x00\x047\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x00\x00\x00\x00\x008\x00\x00\x03\xbf\x00\x00\x047', 'select_rows': True, 'selected_cols': [0, 1, 2, 3, 4], 'selected_rows': [0], 'show_attribute_labels': True, 'show_distributions': False, '__version__': 2}</properties>
+		<properties node_id="11" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'dist_color_RGB': (220, 220, 220, 255), 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x00\x00\x00\x008\x00\x00\x03\xbf\x00\x00\x047\x00\x00\x00\x00\x00\x00\x008\x00\x00\x03\xbf\x00\x00\x047\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x00\x00\x00\x00\x008\x00\x00\x03\xbf\x00\x00\x047', 'select_rows': True, 'selected_cols': [0, 1, 2, 3, 4], 'selected_rows': [0], 'show_attribute_labels': True, 'show_distributions': False, '__version__': 2}</properties>
 		<properties node_id="12" format="pickle">gASVDxAAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMEGN1bXVs
 YXRpdmVfZGlzdHKUiYwTZml0dGVkX2Rpc3RyaWJ1dGlvbpRLAIwJaGlkZV9iYXJzlImMDWtkZV9z
 bW9vdGhpbmeUSwqME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAAAAAAAaAAAHfwAA
